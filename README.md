@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vedang-04
 - 👀 I’m interested in various fields of Machine Learning and Deep Learning
 - 📫 Reach me on mail kshirsagarvedang62@gmail.com or mobile number 9321130897
+- ✨ Linkedin profile url is https://www.linkedin.com/in/vedang-kshirsagar-1b9a761b2
 
 <!---
 vedang-04/vedang-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
